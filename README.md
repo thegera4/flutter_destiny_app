@@ -2,6 +2,8 @@
 
 Simple app about a story that changes according to your selections.
 
+![destiny_app](https://github.com/thegera4/flutter_destiny_app/assets/84020433/a55b30ff-0517-43e5-a523-0135601c569f)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
